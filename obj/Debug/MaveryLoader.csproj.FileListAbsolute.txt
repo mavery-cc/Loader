@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\bin\Debug\MaveryLoader.exe.config
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\bin\Debug\MaveryLoader.exe
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\bin\Debug\MaveryLoader.pdb
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader_MarkupCompile.cache
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader_MarkupCompile.lref
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.g.resources
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.exe
+C:\Users\Administrator\source\repos\MaveryLoader\MaveryLoader\obj\Debug\MaveryLoader.pdb
